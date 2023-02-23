@@ -1,0 +1,30 @@
+<style>
+        body{
+            background-color: rgba(0, 0, 0, 0.436);
+        } 
+
+        .card{
+            background-color: lightgrey;
+        }
+
+        .card-header{
+            font-size: 25px;
+            font-weight: bold;
+            color: coral;
+        }
+
+        .list-group-item{
+            font-weight: 500;
+            padding: 25px;
+            color: crimson;
+        }
+
+        #calculate, #reset{
+            border: 1px solid crimson;
+            border-radius: 4px;
+            background-color: lightgrey;
+            color: crimson;
+            font-weight: 500;
+            margin-left: 5px;
+        }
+</style>
